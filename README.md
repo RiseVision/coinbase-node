@@ -1,5 +1,7 @@
 # Coinbase
-[![Circle CI](https://circleci.com/gh/RiseVision/coinbase-node/tree/master.svg?style=svg)](https://circleci.com/gh/RiseVision/coinbase-node/tree/master)
+Tool | Status
+--------|------------------
+CircleCI | [![Circle CI](https://circleci.com/gh/RiseVision/coinbase-node/tree/master.svg?style=svg)](https://circleci.com/gh/RiseVision/coinbase-node/tree/master)
 
 The official Node.js library for the [Coinbase API](https://developers.coinbase.com/api/v2).
 
